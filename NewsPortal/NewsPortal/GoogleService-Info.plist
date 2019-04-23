@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>908727765924-eglg6j8hc9goe1msm9p0u63nk4ohtujn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.908727765924-eglg6j8hc9goe1msm9p0u63nk4ohtujn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDk9xb79ZUqOa2Z8lNcvJXIt-jI9PyHyP0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>908727765924</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kentaur.NewsPortal</string>
+	<key>PROJECT_ID</key>
+	<string>newsportal-c9806</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newsportal-c9806.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:908727765924:ios:1edd021ecf6d18ae</string>
+	<key>DATABASE_URL</key>
+	<string>https://newsportal-c9806.firebaseio.com</string>
+</dict>
+</plist>
